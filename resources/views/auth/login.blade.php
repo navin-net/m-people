@@ -37,7 +37,7 @@
                                 <!-- <a href=""  type="submit"  class="btn btn-primary btn-user btn-block">
                                     Login
                                 </a> -->
-                                <button type="submit" class="btn btn-primary btn-user btn-block">Sign In</button>
+                                <button type="submit"   class="btn d-block w-100 btn-primary text-white" >Sign In</button>
                                 </form>
                                 <hr>
                                 <a href="https://accounts.google.com/v3/signin/identifier?authuser=0&continue=https%3A%2F%2Fmyaccount.google.com%2F%3Futm_source%3Dsign_in_no_continue%26pli%3D1&ec=GAlAwAE&hl=km&service=accountsettings&flowName=GlifWebSignIn&flowEntry=AddSession&dsh=S-1626437345%3A1703271666715273&theme=glif" class="btn btn-google btn-user btn-block">

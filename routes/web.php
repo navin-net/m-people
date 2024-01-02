@@ -36,5 +36,5 @@ Route::group(['middleware' => 'admin'], function()
 
 //Home Page ***
 Route::get('/home', function(){
-    return view('welcome');
+    return view('home');
 })->name('home');

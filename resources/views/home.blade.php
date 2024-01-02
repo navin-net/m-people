@@ -85,7 +85,7 @@
                                 My Profile</a>
                             <a class="dropdown-item" href="javascript:void(0)"><i class="ti-wallet m-r-5 m-l-5"></i>
                                 My Balance</a>
-                            <a class="dropdown-item" href="javascript:void(0)"><i class="m-r-10 mdi mdi-exit-to-app m-r-5 m-l-5"></i>
+                            <a class="dropdown-item" href="{{route ('login') }}"><i class="m-r-10 mdi mdi-exit-to-app m-r-5 m-l-5"></i>
                                 Loyout</a>
                         </ul>
                     </li>
